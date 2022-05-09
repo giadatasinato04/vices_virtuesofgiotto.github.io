@@ -64,4 +64,4 @@ The manifest contains 14 canvases with all the images and general information.
 
 ## Licensing 
 
-
+All the materials in this project are free to use. No restrictions :) 
