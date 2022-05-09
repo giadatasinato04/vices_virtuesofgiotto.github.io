@@ -29,3 +29,19 @@ Once our tasks were all completed, we came back together and combined our materi
 ### Project Goals
 
 This project aims to analyze the Vices and Virtues of Giotto due to their significance in art history. Giotto reformed the iconography of these moral qualities, which then became the main way to depict them. The frescos of the Cappella degli Scrovegni were so fundamental that the church was deemed a UNESCO site in 2021; although, the Vices and Virtues remain relatively unknown to the public. Therefore, we hope to raise awareness and provoke conversation about these essential pieces of art.
+
+## Img Folder 
+
+This folder contains all of the images present on the website. 
+
+## Open Folder 
+
+Here you can find the OpenSeadragon code for each Vice and Virtue. The 14 images come with a description and the following metadata: 
+- Artist 
+- Dating 
+- Medium 
+- Dimension 
+- Virtue/Vice Number 
+- Opposite Virtue/Vice 
+- Latin Inscription 
+- Picture License 
