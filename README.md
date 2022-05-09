@@ -9,6 +9,7 @@ With the structure completed, we shifted our focus to finding the pictures. Due 
 
 At this point in the project, we divided tasks amongst the three of us: 
 - Samantha 
-  - 
+  - cnbwiefbcwvc owv 
+  - weh cweciwevc
 
 
