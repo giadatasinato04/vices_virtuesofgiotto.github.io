@@ -24,5 +24,4 @@ At this point in the project, we divided tasks amongst the three of us:
   - Edits to the text 
   - Manifest 
 
-Once our tasks were all completed, we came back together and combined our material. 
-
+Once our tasks were all completed, we came back together and combined our material. Rachele proceded with pushing all the items in her repository, then Giada and Samantha pulled and pushed on to their own github repositories. Small edits have been made since to imporve the project. 
