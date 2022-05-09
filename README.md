@@ -30,14 +30,6 @@ Once our tasks were all completed, we came back together and combined our materi
 
 This project aims to analyze the Vices and Virtues of Giotto due to their significance in art history. Giotto reformed the iconography of these moral qualities, which then became the main way to depict them. The frescos of the Cappella degli Scrovegni were so fundamental that the church was deemed a UNESCO site in 2021; although, the Vices and Virtues remain relatively unknown to the public. Therefore, we hope to raise awareness and provoke conversation about these essential pieces of art.
 
-## Img Folder 
-
-This folder contains all of the images present on the website. 
-
-## Manifest 
-
-The manifest contains 14 canvases with all the images and general information. 
-
 ## Visualization 
 
 Below are the three visualization methods that we implemented in our website. 
@@ -61,3 +53,11 @@ All the 14 images are present in the Mirador Viewer, which is connected with the
 ### Viewer 
 
 To better visualize each Virtue and Vice couple, we implemente the iiif viewer. 
+
+## Img Folder 
+
+This folder contains all of the images present on the website. 
+
+## Manifest 
+
+The manifest contains 14 canvases with all the images and general information. 
