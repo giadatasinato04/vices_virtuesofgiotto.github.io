@@ -36,7 +36,6 @@
   foaf:knows "Samantha" ;
   foaf:knows "Giada" .
 
-
 _________________________________________
 
 <?xml version="1.0" encoding="utf-8" ?>
