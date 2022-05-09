@@ -5,6 +5,10 @@ This project was created by [Giada Tasinato](https://github.com/giadatasinato04?
 ## About the Project
 From the recommended theme of Vices and Virtues, we decided to focus our project on those depicted by Giotto which can be seen in the Cappella degli Scrovegni (PD). We started by building a concept map to help us visualize the structure we wanted for our project. After carefully considering multiple ontologies, we chose Wikidata becsause it best represented our ideas.
 
-While we had many possibilities, we chose Giotto because of the close proximity of the chapel. We had the opportunity to visit the site along with taking photos to use for our project. With the help of our lab instructor, [Valerio Remediani](https://github.com/VRemediani), we attained the iiif links of the 14 images so we could implement them into OpenSeadragon and Mirador. 
+With the structure completed, we shifted our focus to finding the pictures. Due to a lack of high quality images and our close proximity to the chapel we decided to visit and take our own photos. With the help of our lab instructor, [Valerio Remediani](https://github.com/VRemediani), we attained the iiif links of the 14 images so we could implement them into OpenSeadragon and Mirador. 
+
+At this point in the project, we divided tasks amongst the three of us: 
+- Samantha 
+  - 
 
 
