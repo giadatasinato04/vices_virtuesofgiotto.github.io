@@ -52,7 +52,7 @@ All the 14 images are present in the Mirador Viewer, which is connected with the
 
 ### Viewer 
 
-To better visualize each Virtue and Vice couple, we implemente the iiif viewer. 
+To better visualize each Virtue and Vice couple, we implemented the iiif viewer. 
 
 ## Img Folder 
 
@@ -60,4 +60,8 @@ This folder contains all of the images present on the website.
 
 ## Manifest 
 
-The manifest contains 14 canvases with all the images and general information. 
+The manifest contains 14 canvases with all the images and general information.
+
+## Licensing 
+
+
