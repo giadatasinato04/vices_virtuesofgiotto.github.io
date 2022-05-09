@@ -25,4 +25,6 @@ At this point in the project, we divided tasks amongst the three of us:
   - Manifest 
 
 Once our tasks were all completed, we came back together and combined our material. Rachele proceded with pushing all the items in her repository, then Giada and Samantha pulled and pushed on to their own github repositories. Small edits have been made since to imporve the project. 
+
+###Project Goals 
 This project aims to analyze the Vices and Virtues of Giotto due to their significance in art history. Giotto reformed the iconography of these moral qualities, which then became the main way to depict them. The frescos of the Cappella degli Scrovegni were so fundamental that the church was deemed a UNESCO site in 2021; although, the Vices and Virtues remain relatively unknown to the public. Therefore, we hope to raise awareness and provoke conversation about these essential pieces of art.
