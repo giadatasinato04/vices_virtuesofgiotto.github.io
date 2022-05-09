@@ -34,7 +34,15 @@ This project aims to analyze the Vices and Virtues of Giotto due to their signif
 
 This folder contains all of the images present on the website. 
 
-## Open Folder 
+## Manifest 
+
+The manifest contains 14 canvases with all the images and general information. 
+
+## Visualization 
+
+Below are the three visualization methods that we implemented in our website. 
+
+### Open Folder 
 
 Here you can find the OpenSeadragon code for each Vice and Virtue. The 14 images come with a description and the following metadata: 
 - Artist 
@@ -45,3 +53,11 @@ Here you can find the OpenSeadragon code for each Vice and Virtue. The 14 images
 - Opposite Virtue/Vice 
 - Latin Inscription 
 - Picture License 
+
+### Mirador 
+
+All the 14 images are present in the Mirador Viewer, which is connected with the manifest. 
+
+### Viewer 
+
+To better visualize each Virtue and Vice couple, we implemente the iiif viewer. 
